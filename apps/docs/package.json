@@ -1,0 +1,15 @@
+{
+    "name": "@designcode/docs",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vitepress dev docs",
+        "build": "vitepress build docs",
+        "serve": "vitepress serve docs"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "vitepress": "^1.0.0-alpha.25",
+        "vue":"^3.2.41"
+    }
+  }
